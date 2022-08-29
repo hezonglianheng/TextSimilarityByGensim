@@ -1,0 +1,2 @@
+# TextSimilarityByGensim
+《人类语言与人工智能》课程期末项目。主要利用Gensim的pipeline，计算CNN新闻与所给fakenews数据文本的文本相似度。
